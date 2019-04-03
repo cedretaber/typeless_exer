@@ -1,0 +1,22 @@
+{
+  "name": "typeless_exer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "redux": "^4.0.1",
+    "rxjs": "^6.4.0",
+    "typeless": "^0.0.18"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.10",
+    "@types/react-dom": "^16.8.3",
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.4.1"
+  }
+}
